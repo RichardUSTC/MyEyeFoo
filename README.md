@@ -3,9 +3,9 @@
 A simple Windows application to lock the screen every a period of time to protect you eyes.
 'MyEyeFoo' is inspired by the software 'EyeFoo'. 'EyeFoo' is not supported any longer and does not support Windows 8 and above.
 
-## requirements:
+## requirements
 	* PyQt4
-	* Python 2.x
+	* Python 2.x (Python 3.x may work, but not tested)
 
 ## configuration
 The file 'config.json' stores the configuration and it is in json format. Here are the meaning of the options.
