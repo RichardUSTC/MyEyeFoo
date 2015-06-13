@@ -1,7 +1,7 @@
 {
 	"work_time": 2700,
 	"relax_time": 180,
-	"check_period": 0.1,
+	"check_period": 5,
 	"lock_one_time": false,
 	"beep_start_time": 30,
 	"beep_times": 10
